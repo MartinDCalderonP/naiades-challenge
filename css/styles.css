@@ -7,13 +7,13 @@
 .header {
   background-image: url(/images/header.jpg);
   background-size: cover;
-  width: 100vw;
-  padding: 2.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
   gap: 5rem;
+  padding: 2.5rem;
+  width: 100vw;
 }
 
 .header-texts-container {
