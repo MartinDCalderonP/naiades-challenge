@@ -23,3 +23,11 @@
   width: 100%;
   color: white;
 }
+
+.header-kicker {
+  background-color: darkblue;
+  padding: 0.5rem 1rem;
+  width: fit-content;
+  text-transform: uppercase;
+}
+
