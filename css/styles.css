@@ -44,3 +44,10 @@
   padding: 4rem;
 }
 
+.attendance-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2.5rem 0;
+}
+
