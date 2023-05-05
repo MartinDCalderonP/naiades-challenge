@@ -82,3 +82,12 @@
   padding: 0.5rem 1rem;
   cursor: pointer;
 }
+
+.video-section {
+  background-image: url(/images/video-background.png);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4rem;
+  width: 100%;
+}
