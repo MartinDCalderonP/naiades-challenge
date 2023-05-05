@@ -151,3 +151,13 @@
   font-weight: bold;
   color: darkblue;
 }
+
+.footer-brand {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+
+.footer-logo {
+  margin-bottom: 1rem;
+}
