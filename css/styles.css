@@ -76,3 +76,10 @@
   text-align: center;
 }
 
+.attendance-button {
+  all: unset;
+  background-color: darkblue;
+  color: white;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
