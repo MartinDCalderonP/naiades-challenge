@@ -109,3 +109,12 @@
   flex: 0.5;
   font-size: 1.75rem;
 }
+
+.speaker-section {
+  font-size: 2rem;
+  padding: 4rem 0;
+}
+
+.speaker-section-title {
+  font-weight: 200;
+}
