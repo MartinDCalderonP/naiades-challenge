@@ -118,3 +118,12 @@
 .speaker-section-title {
   font-weight: 200;
 }
+
+.footer {
+  background-color: orchid;
+  color: white;
+  padding: 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
