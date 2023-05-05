@@ -85,9 +85,14 @@
 
 .video-section {
   background-image: url(/images/video-background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 4rem;
   width: 100%;
+  gap: 2.5rem;
+  box-sizing: border-box;
+}
 }
